@@ -1,0 +1,20 @@
+/*
+	@package simpletheme
+*/
+
+/* 
+	Unset Bootstrap
+	------------------------------------------------
+*/
+body { background-color: #f1f1f1; color: #444; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; font-size: 13px; line-height: 1.4em;
+    div#wpbody-content { width: unset; }
+    h1 { font-size: 23px; padding: unset; line-height: 29px; }
+}
+
+strong { font-weight: 600; }
+
+code { padding: 3px 5px 2px; margin: 0 1px; background: #eaeaea; background: rgba(0,0,0,.07); font-size: 13px; font-family: Consolas,Monaco,monospace; unicode-bidi: embed; color: unset; }
+
+.row { margin-right: unset; }
+
+.button-secondary { line-height: 20px!important; } 
