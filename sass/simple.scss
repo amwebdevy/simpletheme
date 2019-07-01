@@ -2090,6 +2090,9 @@ footer.simple-footer { background-color: #27282C;  margin-top: 20px;
                     &:focus { color: $grey; }
                 }
                 .logged-in-as { text-align: left; font-size: 14px; }
+              .comment-form-cookies-consent {
+                input { width: unset; height: auto; margin-right: 10px; }
+              }
             }
         }
     }
