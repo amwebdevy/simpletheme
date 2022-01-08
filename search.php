@@ -41,7 +41,7 @@ get_header(); ?>
 
             </div><!-- .simple-posts-container -->
 
-            <div class="row post-nav-container">
+            <div class="post-nav-container">
 
                 <div class="col-xs-6 text-left post-nav">
                     <?php next_posts_link('« Older Posts'); ?>
