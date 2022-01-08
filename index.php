@@ -37,7 +37,7 @@ get_header(); ?>
 
             </div><!-- .simple-posts-container -->
 
-            <div class="row post-nav-container">
+            <div class="post-nav-container">
                     
                 <div class="col-xs-6 text-left post-nav">
                     <?php next_posts_link('« Older Posts'); ?>
@@ -47,7 +47,7 @@ get_header(); ?>
                     <?php previous_posts_link('Newer Posts »'); ?>
                 </div>
          
-            </div><!-- .row -->
+            </div>
 
         </div><!-- .archive-container -->
         
